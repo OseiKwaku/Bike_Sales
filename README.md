@@ -14,3 +14,6 @@ In the data cleaning and preparation, the following tasks were performed:
 - Replaced values in the gender column.
 
 ### Results and Findings
+The following are just a few of numerous findings from the analysis;
+- Austrailia is the country with the highest average revenuamong the countries.
+- Water bottle is the product thar generated most revenue.
