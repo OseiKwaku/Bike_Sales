@@ -6,3 +6,11 @@ Sales Data: The primary dataset used for this analysis is the "sales.csv" file,c
 
 ### Tools Used
 Power Bi was the main and only tool used for data cleaning and analyzing datasets, and also creating a dashboard.
+
+### Data Cleaning/ Preparation
+In the data cleaning and preparation, the following tasks were performed:
+- Data loading and inspection in power query.
+- Removed multiple columns; day, month and year columns.
+- Replaced values in the gender column.
+
+### Results and Findings
